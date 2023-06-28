@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.imgur.com/KbnuqWh.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(123, 80, 193);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.737);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.imgur.com/34pAe6g.png);
 
   /*
     Change your friends icon image position
@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(242, 106, 206);
 
   /*
     Change the unread server animation.
@@ -137,7 +137,7 @@
     Add Server / Discovery Icon
   */
   --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #43b581;
+  --add-discover-icon-color: #434eb5;
 
   /*
     Channel Limit Number Color
@@ -154,13 +154,13 @@
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #f04747;
+  --unread-message-divider-color: #f0e547;
   --unread-message-divider-font-color: #fff;
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #7289da;
+  --new-messages-bar-background-color: #9572da;
   --new-messages-bar-font-color: #fff;
 
   /*
