@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(242, 106, 206);
+  --category-hover-color: rgb(168, 241, 213);
 
   /*
     Change the unread server animation.
@@ -137,7 +137,7 @@
     Add Server / Discovery Icon
   */
   --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #eef834;
+  --add-discover-icon-color: #eded31;
 
   /*
     Channel Limit Number Color
@@ -154,13 +154,13 @@
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #f0e547;
+  --unread-message-divider-color: var(--main-theme-color);
   --unread-message-divider-font-color: #fff;
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #72beda;
+  --new-messages-bar-background-color: var(--main-theme-color);
   --new-messages-bar-font-color: #fff;
 
   /*
@@ -182,10 +182,10 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: #43ddac;
-  --text-voice-channel-hover-color: #a1fcea;
+  --text-voice-channel-color: #6aa391;
+  --text-voice-channel-hover-color: #ffffff;
   --text-voice-channel-selected-text-color: #eded31;
-  --unread-text-channel-color: #95ffde;
+  --unread-text-channel-color: var(--main-theme-color);
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
