@@ -26,12 +26,12 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(123, 80, 193);
+  --main-theme-color: rgb(135, 243, 202);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.737);
+  --theme-transparency: rgba(0, 0, 0, 0.807);
 
   /*
     Home Icon Image
@@ -137,7 +137,7 @@
     Add Server / Discovery Icon
   */
   --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #434eb5;
+  --add-discover-icon-color: #4386b5;
 
   /*
     Channel Limit Number Color
@@ -160,7 +160,7 @@
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #9572da;
+  --new-messages-bar-background-color: #72beda;
   --new-messages-bar-font-color: #fff;
 
   /*
