@@ -31,7 +31,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.807);
+  --theme-transparency: rgba(0, 0, 0, 0.858);
 
   /*
     Home Icon Image
@@ -137,7 +137,7 @@
     Add Server / Discovery Icon
   */
   --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #4386b5;
+  --add-discover-icon-color: #eef834;
 
   /*
     Channel Limit Number Color
@@ -182,10 +182,10 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(142, 146, 151);
-  --text-voice-channel-hover-color: #dcddde;
-  --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #fff;
+  --text-voice-channel-color: #43ddac;
+  --text-voice-channel-hover-color: #c390fa;
+  --text-voice-channel-selected-text-color: #eded31;
+  --unread-text-channel-color: #95ffde;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
