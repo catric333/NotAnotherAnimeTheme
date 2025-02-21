@@ -1243,7 +1243,8 @@ html {
   background: transparent;
 }
 
-.stackedBars__74017 {
+.stackedBars__74017 /* reply bar underneath */,
+#app-mount .content__37e49 /* user panel bottom */ {
   background-color: var(--message-box-transparency);
 }
 
